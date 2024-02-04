@@ -1,7 +1,7 @@
 # Authentication WebPage
 This is an authentication project that allows users to enroll and login to the system using their email and password. It is implemented using ASP.NET Core MVC framework and Microsoft SQL Server for data storage.
 
-<img src="" width=100%> 
+<img src="https://github.com/doaasa/Authentication-Page/blob/main/Photos/register.png" width=100%> 
 
 ## Project Files
 - `Welcome.cshtml`: Contains the view for the welcome page that is displayed to users after successful login. It shows the enrolled user's information fetched from the database.
@@ -42,16 +42,17 @@ This is an authentication project that allows users to enroll and login to the s
 ## Screenshots of project's run
 
 1- Login Photo: The login photo depicts the login page of the authentication system. It showcases a clean and user-friendly interface with a form where users can enter their credentials to access their accounts. The photo may feature a login form with fields for email and password, along with a login button. The image aims to convey a sense of security, trust, and simplicity, encouraging users to log in and access their personalized dashboard.
-<img src="" width=100%> 
+<img src="https://github.com/doaasa/Authentication-Page/blob/main/Photos/login.png" width=100%> 
 
 2- Register Photo: The register photo showcases the registration page of the authentication system. It highlights the process of creating a new account by capturing the essence of a user-friendly and intuitive registration form. The image may depict fields for personal information such as name, email, password, and additional details like gender and phone number. The register photo aims to inspire users to create an account by highlighting the simplicity and convenience of the registration process.
-<img src="" width=100%> 
+<img src="https://github.com/doaasa/Authentication-Page/blob/main/Photos/register.png" width=100%> 
 
 3- Dashboard Photo: The dashboard photo represents the personalized user dashboard in the authentication system. It portrays an overview of the user's account information, settings, and activities. The photo may display a visually appealing and organized interface, providing a glimpse of various features such as profile details, account settings, access to resources or services, and recent activity or notifications. The dashboard photo aims to convey a sense of control, efficiency, and convenience, illustrating the benefits of using the authentication system.
-<img src="" width=100%> 
+<img src="https://github.com/doaasa/Authentication-Page/blob/main/Photos/dashboard.png" width=100%> 
 
 
 # Watch the Video
+https://github.com/doaasa/Authentication-Page/assets/76880107/b871dda4-abe1-4b00-a9c3-2dfd930ce4a1
 
 
 
