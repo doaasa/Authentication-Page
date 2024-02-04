@@ -32,7 +32,7 @@ This is an authentication project that allows users to enroll and login to the s
 
 ## Usage
 
-1. Open a web browser and navigate to `[http://localhost:5000/](https://localhost:7286/UserEnroll/Index)` to access the login page (`Index.cshtml`).
+1. Open a web browser and navigate to `(https://localhost:7286/UserEnroll/Index)` to access the login page (`Index.cshtml`).
 2. Register a new user: Click on the "Register" link on the login page and provide the required information.
 3. Log in: Enter the registered email and password to log in.
 4. Welcome page: After successful login, you will be redirected to the welcome page (`Welcome.cshtml`), which displays your enrollment details.
