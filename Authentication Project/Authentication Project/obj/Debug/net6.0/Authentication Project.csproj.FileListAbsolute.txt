@@ -1,0 +1,38 @@
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.csproj.AssemblyReference.cache
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.AssemblyInfoInputs.cache
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.AssemblyInfo.cs
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.csproj.CoreCompileInputs.cache
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.RazorAssemblyInfo.cache
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.RazorAssemblyInfo.cs
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\appsettings.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\Authentication Project.staticwebassets.runtime.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\Authentication Project.exe
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\Authentication Project.deps.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\Authentication Project.runtimeconfig.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\Authentication Project.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\Authentication Project.pdb
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets\msbuild.Authentication Project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets\msbuild.build.Authentication Project.props
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Authentication Project.props
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Authentication Project.props
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\scopedcss\bundle\Authentication Project.styles.css
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\scopedcss\projectbundle\Authentication Project.bundle.scp.css
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.csproj.CopyComplete
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\refint\Authentication Project.dll
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.pdb
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\Authentication Project.genruntimeconfig.cache
+D:\Projects for C#\Authentication Project\Authentication Project\Authentication Project\obj\Debug\net6.0\ref\Authentication Project.dll
